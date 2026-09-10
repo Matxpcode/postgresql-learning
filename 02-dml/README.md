@@ -1,6 +1,6 @@
 ## 📝 Preguntas de los Ejercicios Prácticos
 
-### Captura
+### Ejercicio 1
 
 <img width=50% alt="dml1" src="https://github.com/user-attachments/assets/ec5b1ed5-7a57-477f-bdb5-7128a1972008" />
 
